@@ -10,13 +10,13 @@
 	
 ## **About me 🤓** <!--Pendiente-->
 
-<picture> <img align="right" src="https://drive.google.com/file/d/194y5ZRHYgMtF-6MZAYfy5SPyRQIgknym/view?usp=sharing" width = 250px></picture>
+<picture> <img align="right" src="https://media.licdn.com/dms/image/D4E22AQGphsEQ5Y9DcA/feedshare-shrink_2048_1536/0/1714331267460?e=1718841600&v=beta&t=YyGX2JNXavYaN_WbAXa83KB9-fTPv5dnXw0JTrksqXc" width = 250px></picture>
 
 <br>
 
 - 🧠 A passionate Self-taught learner
 - 🏋️ Practicing constantly on hackathons and challenges
-- 📉 Currently self-teaching web development and data science
+- 📈 Currently self-teaching web development and data science
 - 👨‍💻 Personal website [link](#) <!--Pendiente-->
 - ⭐ **I’m currently open for an Intern or a new job opportunity, this is [my resume](#)**  <!--Pendiente-->
 
@@ -78,11 +78,11 @@
 <br>
 
 
-## <img src="[Your Stats GIF URL]" width="35"><b> Github Stats </b>  <!--Pendiente-->
+## <b>Github Stats 📊</b>  <!--Pendiente-->
 <br>
 
 <div align="center">
-
+	
 <a href="https://github.com/RodEsB/">
   <img src="https://github-readme-stats.vercel.app/api?username=RodEsB&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RodEsB&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="RodEsB"/>
