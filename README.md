@@ -8,9 +8,9 @@
 <br>
 
 	
-## <picture><img src = "[Your About Me GIF URL]" width = 50px></picture> **About me** <!--Pendiente-->
+## **About me 🤓** <!--Pendiente-->
 
-<picture> <img align="right" src="[Your Right Side GIF URL]" width = 250px></picture>
+<picture> <img align="right" src="https://drive.google.com/file/d/194y5ZRHYgMtF-6MZAYfy5SPyRQIgknym/view?usp=sharing" width = 250px></picture>
 
 <br>
 
