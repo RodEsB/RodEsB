@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Rodrigo Espíritu Berra </b><img src="[https://pixabay.com/es/gifs/code-programming-computer-science-6618/](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW42YzFuZ2pxZ3d1M3VsZGM3ZTNpeW1wemR5bHB0enhsY2UxdzVxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gf5QiP1TWCO8qYKmt7/giphy.gif)" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Rodrigo Espíritu Berra </b><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW42YzFuZ2pxZ3d1M3VsZGM3ZTNpeW1wemR5bHB0enhsY2UxdzVxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Gf5QiP1TWCO8qYKmt7/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=5400F7&random=false&width=435&lines=Software+Engineer+Student;Mobile+Developer;Backend+Developer;Frontend+Developer;Data+Science" alt="Typing SVG" /></a>
