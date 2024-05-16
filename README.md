@@ -24,7 +24,7 @@
 
 <img src="[Your GIF URL]"><br><br> <!--Pendiente-->
 
-## <img src="[Your Skill GIF URL]" width="25"><b> Skills</b>
+## <b> Skills 💪</b>
 <br>
 
 <p align="center">
@@ -99,7 +99,7 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="[Your Handshake GIF URL]" width ="80"> <!--Pendiente-->
+## <b>Let's Connect..! 🌟</b> <!--Pendiente-->
 <br>
 <div align='left'>
 
@@ -131,7 +131,6 @@
 </div>
 
 <br>
-<img src="[Your GIF URL]"> <!--Pendiente-->
 <br>
 <br>
 <br>
