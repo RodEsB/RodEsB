@@ -38,7 +38,10 @@
 <br>   
 
 - **Mobile Development**:
-
+	![Swift](https://img.shields.io/badge/Swift-%23FFA500.svg?style=for-the-badge&logo=swift&logoColor=white)
+	![SwiftUI](https://img.shields.io/badge/SwiftUI-%23000000.svg?style=for-the-badge&logo=swift&logoColor=white)
+	![Firebase](https://img.shields.io/badge/Firebase-%23000000.svg?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+	![Apple Kits](https://img.shields.io/badge/Apple%20Kits-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 
 <br>
 
