@@ -14,11 +14,11 @@
 
 <br>
 
-- A passionate Self-taught learner
-- Practicing constantly on Hackathons and challenges
-- Currently learning Web Development and Data Cience by Self
-- Personal website [link](#) <!--Pendiente-->
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](#)  <!--Pendiente-->
+🧠 A passionate Self-taught learner
+🏋️ Practicing constantly on hackathons and challenges
+📉 Currently self-teaching web development and data science
+👨‍💻 Personal website [link](#) <!--Pendiente-->
+⭐ **I’m currently open for an Intern or a new job opportunity, this is [my resume](#)**  <!--Pendiente-->
 
 <br><br>
 
