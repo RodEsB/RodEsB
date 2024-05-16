@@ -14,9 +14,9 @@
 
 <br>
 
-- 🧠 A passionate Self-taught learner
-- 🏋️ Practicing constantly on hackathons and challenges
-- 📈 Currently self-teaching web development, mobile and data science
+- 🧠 A passionate Self-taught learner.
+- 🏋️ Practicing constantly on hackathons and challenges.
+- 📈 Currently self-teaching data science, web and mobile development.
 - 👨‍💻 Personal website [link](#) <!--Pendiente-->
 - ⭐ **I’m currently open for an Intern or a new job opportunity, this is [my resume](#)**  <!--Pendiente-->
 
