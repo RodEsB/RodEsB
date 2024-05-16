@@ -5,7 +5,7 @@
   
   <!--Agregar el banner-->
   
-<div align="center">
+</div>
 
 <br>
 
