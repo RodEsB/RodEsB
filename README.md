@@ -27,15 +27,14 @@
 
 <p align="center">
 
-- **Languages**: <!--Pendiente-->
+- **Languages**:
+  
 	![Java](https://img.shields.io/badge/Java-%23FF0000.svg?style=for-the-badge&logo=java&logoColor=white)
 	![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
 	![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 	![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 	![Swift](https://img.shields.io/badge/Swift-%23FFA500.svg?style=for-the-badge&logo=swift&logoColor=white)
   
-  <!--Agregar Java y Swift-->
-
 <br>   
     
 - **Front-End Development**:
@@ -43,6 +42,7 @@
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/React-%23FFA500.svg?style=for-the-badge&logo=react&logoColor=white)
 <!--Pendiente-->
 
 <br>
