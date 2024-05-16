@@ -127,7 +127,7 @@
 
 <li>
 <a href="https://twitter.com/Rod_Es_B" target="_blank">
-<img src="https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/x-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -142,16 +142,9 @@
 </ul>
 </div>
 
-<br>
-<br>
-<br>
-<br>
-
 <div align='center'>
 
 </div>
-<br>
-<br>
 <br>
 <br>
 
