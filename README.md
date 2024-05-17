@@ -22,7 +22,7 @@
 - 🏋️ Practicing constantly on hackathons and challenges.
 - 📈 Currently self-teaching data science, web and mobile development.
 - 👨‍💻 Personal website [link](#) <!--Pendiente-->
-- ⭐ **I’m currently open for an Intern or a new job opportunity, this is [my resume](#)**  <!--Pendiente-->
+- ⭐ **I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/19_AHHywgTOGQQ8XwW7ABBC02QsyzxS1P/view?usp=sharing)**  <!--Pendiente-->
 
 <br><br>
 
