@@ -1,8 +1,10 @@
 <h1 align="center"><b>Hi there, I'm Rodrigo Espíritu Berra 👋👨‍💻💻</b></h1>
 
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=5400F7&random=false&width=435&lines=Software+Engineer+Student;+++++Mobile+Developer;+++++Backend+Developer;+++++Frontend+Developer;+++++++Data+Science" alt="Typing SVG" /></a>
-</p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=5400F7&random=false&width=435&lines=Software+Engineer+Student;+++++Mobile+Developer;+++++Backend+Developer;+++++Frontend+Developer;+++++++Data+Science" alt="Typing SVG" />
+  </a>
+</div>
 	<!--Agregar el banner-->
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4bm1na2t0cnJ3ajd3dnhrbW5odmhzNmlkZ2hsODllNjcxdWlvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LoOChBaKRosSLJmsH0/giphy.gif" width="400" height="200">
