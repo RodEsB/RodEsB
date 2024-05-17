@@ -1,8 +1,7 @@
 <h1 align="center"><b>Hi there, I'm Rodrigo Espíritu Berra 👋👨‍💻💻</b></h1>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=5400F7&random=false&width=435&lines=Software+Engineer+Student;+++++Mobile+Developer;+++++Backend+Developer;+++++Frontend+Developer;+++++++Data+Science" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2500&pause=1000&color=5400F7&random=false&width=435&lines=Software+Engineer+Student" alt="Typing SVG" /></a>
   </a>
 </div>
 	<!--Agregar el banner-->
