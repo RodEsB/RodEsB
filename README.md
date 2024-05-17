@@ -5,7 +5,7 @@
 </p>
 	<!--Agregar el banner-->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4bm1na2t0cnJ3ajd3dnhrbW5odmhzNmlkZ2hsODllNjcxdWlvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LoOChBaKRosSLJmsH0/giphy.gif" width="200" height="100">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4bm1na2t0cnJ3ajd3dnhrbW5odmhzNmlkZ2hsODllNjcxdWlvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LoOChBaKRosSLJmsH0/giphy.gif" width="400" height="200">
 </p>
  
 <br>
