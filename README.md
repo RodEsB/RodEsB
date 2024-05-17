@@ -5,7 +5,7 @@
 </p>
 	<!--Agregar el banner-->
 <p align="center">
-  <img src="https://pbs.twimg.com/media/GNwC3oXXkAA_PU-?format=jpg&name=large" width="300" height="150">
+  <img src="https://pbs.twimg.com/media/GNwC3oXXkAA_PU-?format=jpg&name=large" width="300" height="200">
 </p>
  
 <br>
