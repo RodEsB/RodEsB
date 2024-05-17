@@ -153,7 +153,7 @@
 <div align='center'>
 ---
 
-👋 Thank you for exploring my profile! Feel free to check out my repositories to see what I've been working on. Contributions and feedback are always welcome! Happy coding! 🚀
+**👋 Thank you for exploring my profile! Feel free to check out my repositories to see what I've been working on. Contributions and feedback are always welcome! Happy coding! 🚀**
 
 </div>
 <br>
