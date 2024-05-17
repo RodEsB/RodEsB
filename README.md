@@ -5,7 +5,7 @@
 </p>
 	<!--Agregar el banner-->
 <p align="center">
-  <img src="https://pbs.twimg.com/media/GNwC3oXXkAA_PU-?format=jpg&name=large" width="200" height="100">
+  <img src="![image](https://github.com/RodEsB/RodEsB/assets/107639915/0d2755ce-82b5-4ca4-afc4-bb92aa576913)" width="200" height="100">
 </p>
  
 <br>
