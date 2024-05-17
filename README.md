@@ -47,10 +47,16 @@
 <br>
 
 - **Back-end Development**:
-  
+	![Node.js](https://img.shields.io/badge/Node.js-%23000000.svg?style=for-the-badge&logo=node.js&logoColor=339933)
+	![MySQL](https://img.shields.io/badge/MySQL-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=4479A1)
+
 <br>
 
 - **Data Science**:
+	![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+	![NumPy](https://img.shields.io/badge/NumPy-%23000000.svg?style=for-the-badge&logo=numpy&logoColor=013243)
+	![Pandas](https://img.shields.io/badge/Pandas-%23000000.svg?style=for-the-badge&logo=pandas&logoColor=150458)
+	![Matplotlib](https://img.shields.io/badge/Matplotlib-%23000000.svg?style=for-the-badge&logo=matplotlib&logoColor=11557c)
 
 <br>
 
