@@ -47,12 +47,14 @@
 <br>
 
 - **Back-end Development**:
+  
 	![Node.js](https://img.shields.io/badge/Node.js-%23000000.svg?style=for-the-badge&logo=node.js&logoColor=339933)
 	![MySQL](https://img.shields.io/badge/MySQL-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
 <br>
 
 - **Data Science**:
+  
 	![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 	![NumPy](https://img.shields.io/badge/NumPy-%23000000.svg?style=for-the-badge&logo=numpy&logoColor=013243)
 	![Pandas](https://img.shields.io/badge/Pandas-%23000000.svg?style=for-the-badge&logo=pandas&logoColor=150458)
@@ -80,8 +82,6 @@
 	![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 	![Google Colab](https://img.shields.io/badge/Google%20Colab-%23000000.svg?style=for-the-badge&logo=google%20colab&logoColor=F9AB00)
 
-
-    <!--Pendiente-->
   
 <br>
 
@@ -91,9 +91,6 @@
 	![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  
 	![Figma](https://img.shields.io/badge/Figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=F24E1E)
  
-
-<!--Pendiente-->
-
 </p>
 
 <br>
@@ -128,9 +125,10 @@
 ## <b>Let's Connect! 🌟</b> <!--Pendiente-->
 <br>
 <div align='left'>
-	<ul>
-		<li>
-	<a href="https://www.linkedin.com/in/rodrigo-espíritu-berra-10175a291/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/></a>
+<ul>
+<li>
+<a href="https://www.linkedin.com/in/rodrigo-espíritu-berra-10175a291/" target="_blank"> 
+<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/></a>
 </li>
 		
 <br>
@@ -153,6 +151,9 @@
 </div>
 
 <div align='center'>
+---
+
+👋 Thank you for exploring my profile! Feel free to check out my repositories to see what I've been working on. Contributions and feedback are always welcome! Happy coding! 🚀
 
 </div>
 <br>
