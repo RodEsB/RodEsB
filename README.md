@@ -14,7 +14,7 @@
 	
 ## **About me 🤓** <!--Pendiente-->
 
-<picture> <img align="right" src="https://media.licdn.com/dms/image/D4E22AQGphsEQ5Y9DcA/feedshare-shrink_2048_1536/0/1714331267460?e=1718841600&v=beta&t=YyGX2JNXavYaN_WbAXa83KB9-fTPv5dnXw0JTrksqXc" width = 250px></picture>
+<picture> <img align="right" src="https://media.licdn.com/dms/image/D4E22AQGphsEQ5Y9DcA/feedshare-shrink_2048_1536/0/1714331267460?e=1721865600&v=beta&t=UcVA-g5Ub3N94ZLNPcTOVDdtTzW8-hXfoRuX3gd-Iqw" width = 250px></picture>
 
 <br>
 
