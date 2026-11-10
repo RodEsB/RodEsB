@@ -91,11 +91,8 @@
 
 <!-- La animación la genera .github/workflows/update-snake.yml y se guarda en /profile -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile/snake.svg" />
-    <img src="./profile/snake.svg" alt="Snake animation eating my GitHub contribution graph" />
-  </picture>
+  <img src="./profile/snake.svg#gh-light-mode-only" alt="Snake animation eating my GitHub contribution graph" />
+  <img src="./profile/snake-dark.svg#gh-dark-mode-only" alt="Snake animation eating my GitHub contribution graph" />
 </div>
 
 <br>
