@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1000&color=7A5CFF&center=true&vCenter=true&width=600&lines=AI+%26+Automation+Consultant+%40+Ellucian;Building+enterprise+AI+agents+on+AWS;Software+Engineer+%C2%B7+UDLAP+'26" alt="AI & Automation Consultant @ Ellucian · Building enterprise AI agents on AWS · Software Engineer, UDLAP '26" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1000&color=7A5CFF&center=true&vCenter=true&width=600&lines=AI+%26+Automation+Consultant+%40+Ellucian;I+build+AI+agents+on+AWS;Always+learning+something+new" alt="AI & Automation Consultant @ Ellucian · I build AI agents on AWS · Always learning something new" />
   </a>
 </div>
 
@@ -14,6 +14,7 @@
   <a href="https://www.linkedin.com/in/rodrigo-espíritu-berra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://twitter.com/Rod_Es_B"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="mailto:rodrigo.espirituberra@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=RodEsB&label=Profile%20views&color=7A5CFF&style=for-the-badge" alt="Profile views" />
 </p>
 
 <br>
@@ -23,34 +24,13 @@
 <!-- Foto: sube tu imagen al repo como assets/profile.jpg y descomenta la línea siguiente -->
 <!-- <img align="right" src="./assets/profile.jpg" width="220" alt="Rodrigo Espíritu Berra"> -->
 
-- 🤖 **AI & Automation Consultant at [Ellucian](https://www.ellucian.com/)**, building enterprise AI agents on AWS.
-- 🧩 I work with **Amazon Bedrock AgentCore, Strands Agents and MCP** to ship agent runtimes, tool integrations and knowledge retrieval over Confluence, Jira and Box.
-- 🧪 I care about agents that can be trusted: automated evaluation, identity-aware tools and fail-closed authorization.
-- 🎓 B.S. in Software Engineering, **Universidad de las Américas Puebla (UDLAP)**, class of 2026.
-- ☁️ Currently preparing the **AWS Solutions Architect** certification.
-- 📍 Puebla, Mexico · 🇲🇽 Spanish · 🇺🇸 English
+- 🤖 I spend my days building AI agents at **Ellucian** (Bedrock AgentCore, Strands Agents, MCP and a lot of Python).
+- 🧠 Self-taught at heart: if something looks interesting, I'll probably end up building a side project with it.
+- 🛠️ I like the whole stack, from cloud infra on AWS to frontends in React and iOS apps in SwiftUI.
+- 🎓 Software Engineering grad from **UDLAP** (class of 2026).
+- ☁️ Right now: studying for the **AWS Solutions Architect** cert.
+- 📍 Puebla, Mexico 🇲🇽 · I speak Spanish and English.
 <!-- - 📄 [My resume](ENLACE_A_TU_CV_ACTUALIZADO) -->
-
-<br>
-
-## Experience 💼
-
-| Role | Company | Period | Highlights |
-| :--- | :--- | :--- | :--- |
-| **AI & Automation Consultant** | Ellucian | Jun 2026 – Present | Enterprise agent runtimes with Bedrock AgentCore, Strands Agents, MCP and AWS CDK · Agent evaluation framework (24 test cases) · Cut a React dashboard vendor bundle by ~70% (801 KB → 239 KB) |
-| **AI & Automation Consultant Intern** | Ellucian | Feb 2026 – May 2026 | End-to-end onboarding chatbot in Slack with Bedrock Knowledge Bases, Lambda, API Gateway and DynamoDB · Confluence ingestion pipelines · S3 Vectors and Jenkins CI/CD |
-| **Software Development Intern** | Merkur.ia | Jun 2025 – Aug 2025 | LangChain/LangSmith agents · Python scraping pipelines · React Native dashboard with Pinecone |
-| **Quality & Development Analyst, Generative AI** | Outlier AI | Sep 2024 – Jan 2026 | LLM output evaluation · System prompt and AI-generated code optimization |
-| **O-Quality & Process Management Intern** | T-Systems Mexico | Apr 2024 – Aug 2024 | GPT-powered mini-games with Microsoft Power Apps |
-
-<br>
-
-## Featured projects 🚀
-
-| Project | What it does | Stack |
-| :--- | :--- | :--- |
-| **Driver Fatigue Detection System** (2025) | iOS app that detects driver fatigue with computer vision, real-time video analysis and deep learning. | SwiftUI · Python · TensorFlow · OpenCV · MobileNetV2 |
-| **TrustyWeb** (2024) | AI-powered Chromium extension that analyzes and verifies online information. | React · TypeScript · Node.js · OpenAI API |
 
 <br>
 
@@ -105,29 +85,25 @@
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
 
-**Certifications**
-
-![AWS Solutions Architect (in progress)](https://img.shields.io/badge/AWS%20Solutions%20Architect-In%20progress-FF9900?style=for-the-badge)
-![Google Cloud Computing Foundations](https://img.shields.io/badge/Google%20Cloud%20Computing%20Foundations-2025-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
 <br>
 
-## GitHub Stats 📊
+## My contributions, eaten by a snake 🐍
 
-<!-- Estas tarjetas las genera .github/workflows/update-cards.yml y se guardan en /profile -->
+<!-- La animación la genera .github/workflows/update-snake.yml y se guarda en /profile -->
 <div align="center">
-  <a href="https://github.com/RodEsB/">
-    <img src="./profile/stats.svg" height="170" alt="Rodrigo's GitHub stats" />
-    <img src="./profile/top-langs.svg" height="170" alt="Rodrigo's most used languages" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/snake.svg" />
+    <img src="./profile/snake.svg" alt="Snake animation eating my GitHub contribution graph" />
+  </picture>
 </div>
 
 <br>
 
----
-
 <div align="center">
 
-**👋 Thanks for stopping by! Feel free to explore my repositories or reach out. Happy coding! 🚀**
+**Thanks for stopping by! Feel free to look around my repos or say hi. Happy coding! 🚀**
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:130F40,100:7A5CFF&height=120&section=footer" width="100%" alt="" />
