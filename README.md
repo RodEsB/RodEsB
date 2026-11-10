@@ -1,163 +1,133 @@
-<h1 align="center"><b>Hi there, I'm Rodrigo Espíritu Berra 👋👨‍💻💻</b></h1>
+<h1 align="center">Hi there, I'm Rodrigo Espíritu Berra 👋</h1>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=2500&pause=1000&color=5400F7&random=false&width=435&lines=Software+Engineer+Student" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1000&color=7A5CFF&center=true&vCenter=true&width=600&lines=AI+%26+Automation+Consultant+%40+Ellucian;Building+enterprise+AI+agents+on+AWS;Software+Engineer+%C2%B7+UDLAP+'26" alt="AI & Automation Consultant @ Ellucian · Building enterprise AI agents on AWS · Software Engineer, UDLAP '26" />
   </a>
 </div>
-	<!--Agregar el banner-->
+
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4bm1na2t0cnJ3ajd3dnhrbW5odmhzNmlkZ2hsODllNjcxdWlvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LoOChBaKRosSLJmsH0/giphy.gif" width="400" height="200">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4bm1na2t0cnJ3ajd3dnhrbW5odmhzNmlkZ2hsODllNjcxdWlvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LoOChBaKRosSLJmsH0/giphy.gif" width="400" height="200" alt="Coding animation">
 </p>
- 
-<br>
-
-	
-## **About me 🤓** <!--Pendiente-->
-
-<picture> <img align="right" src="https://media.licdn.com/dms/image/D4E22AQGphsEQ5Y9DcA/feedshare-shrink_2048_1536/0/1714331267460?e=1721865600&v=beta&t=UcVA-g5Ub3N94ZLNPcTOVDdtTzW8-hXfoRuX3gd-Iqw" width = 250px></picture>
-
-<br>
-
-- 🧠 A passionate Self-taught learner.
-- 🏋️ Practicing constantly on hackathons and challenges.
-- 📈 Currently self-teaching data science, web and mobile development.
-- 👨‍💻 Personal website [link](#) <!--Pendiente-->
-- ⭐ **I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/19_AHHywgTOGQQ8XwW7ABBC02QsyzxS1P/view?usp=sharing)**  <!--Pendiente-->
-
-<br><br>
-
-## <b> Skills 💪</b>
-<br>
 
 <p align="center">
-
-- **Languages**:
-  
-	![Java](https://img.shields.io/badge/Java-%23FF0000.svg?style=for-the-badge&logo=java&logoColor=white)
-	![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-	![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-	![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-	![Swift](https://img.shields.io/badge/Swift-%23FFA500.svg?style=for-the-badge&logo=swift&logoColor=white)
-  
-<br>   
-
-- **Mobile Development**:
-  
-	![Swift](https://img.shields.io/badge/Swift-%23FFA500.svg?style=for-the-badge&logo=swift&logoColor=white)
-	![SwiftUI](https://img.shields.io/badge/SwiftUI-%23000000.svg?style=for-the-badge&logo=swift&logoColor=white)
-	![Firebase](https://img.shields.io/badge/Firebase-%23000000.svg?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-	![Apple Kits](https://img.shields.io/badge/Apple%20Kits-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
-
-<br>
-
-- **Back-end Development**:
-  
-	![Node.js](https://img.shields.io/badge/Node.js-%23000000.svg?style=for-the-badge&logo=node.js&logoColor=339933)
-	![MySQL](https://img.shields.io/badge/MySQL-%23000000.svg?style=for-the-badge&logo=mysql&logoColor=4479A1)
-
-<br>
-
-- **Data Science**:
-  
-	![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-	![NumPy](https://img.shields.io/badge/NumPy-%23000000.svg?style=for-the-badge&logo=numpy&logoColor=013243)
-	![Pandas](https://img.shields.io/badge/Pandas-%23000000.svg?style=for-the-badge&logo=pandas&logoColor=150458)
-	![Matplotlib](https://img.shields.io/badge/Matplotlib-%23000000.svg?style=for-the-badge&logo=matplotlib&logoColor=11557c)
-
-<br>
-
-- **Front-End Development**:
-
-	![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-	![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-	![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-	![React](https://img.shields.io/badge/React-%231877F2.svg?style=for-the-badge&logo=react&logoColor=white)
-
-<br>
-    
-<br>
-
-- **Softwares and Tools**:
-
-	![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-	![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-	![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-	![JetBrains Suites](https://img.shields.io/badge/JetBrains%20Suites-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=000000)
-	![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-	![Google Colab](https://img.shields.io/badge/Google%20Colab-%23000000.svg?style=for-the-badge&logo=google%20colab&logoColor=F9AB00)
-
-  
-<br>
-
-- **Extras**:
-  
-	![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-	![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  
-	![Figma](https://img.shields.io/badge/Figma-%23000000.svg?style=for-the-badge&logo=figma&logoColor=F24E1E)
- 
+  <a href="https://www.linkedin.com/in/rodrigo-espíritu-berra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/Rod_Es_B"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:rodrigo.espirituberra@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <br>
+
+## About me 🤓
+
+<!-- Foto: sube tu imagen al repo como assets/profile.jpg y descomenta la línea siguiente -->
+<!-- <img align="right" src="./assets/profile.jpg" width="220" alt="Rodrigo Espíritu Berra"> -->
+
+- 🤖 **AI & Automation Consultant at [Ellucian](https://www.ellucian.com/)**, building enterprise AI agents on AWS.
+- 🧩 I work with **Amazon Bedrock AgentCore, Strands Agents and MCP** to ship agent runtimes, tool integrations and knowledge retrieval over Confluence, Jira and Box.
+- 🧪 I care about agents that can be trusted: automated evaluation, identity-aware tools and fail-closed authorization.
+- 🎓 B.S. in Software Engineering, **Universidad de las Américas Puebla (UDLAP)**, class of 2026.
+- ☁️ Currently preparing the **AWS Solutions Architect** certification.
+- 📍 Puebla, Mexico · 🇲🇽 Spanish · 🇺🇸 English
+<!-- - 📄 [My resume](ENLACE_A_TU_CV_ACTUALIZADO) -->
+
 <br>
 
------
+## Experience 💼
+
+| Role | Company | Period | Highlights |
+| :--- | :--- | :--- | :--- |
+| **AI & Automation Consultant** | Ellucian | Jun 2026 – Present | Enterprise agent runtimes with Bedrock AgentCore, Strands Agents, MCP and AWS CDK · Agent evaluation framework (24 test cases) · Cut a React dashboard vendor bundle by ~70% (801 KB → 239 KB) |
+| **AI & Automation Consultant Intern** | Ellucian | Feb 2026 – May 2026 | End-to-end onboarding chatbot in Slack with Bedrock Knowledge Bases, Lambda, API Gateway and DynamoDB · Confluence ingestion pipelines · S3 Vectors and Jenkins CI/CD |
+| **Software Development Intern** | Merkur.ia | Jun 2025 – Aug 2025 | LangChain/LangSmith agents · Python scraping pipelines · React Native dashboard with Pinecone |
+| **Quality & Development Analyst, Generative AI** | Outlier AI | Sep 2024 – Jan 2026 | LLM output evaluation · System prompt and AI-generated code optimization |
+| **O-Quality & Process Management Intern** | T-Systems Mexico | Apr 2024 – Aug 2024 | GPT-powered mini-games with Microsoft Power Apps |
 
 <br>
 
+## Featured projects 🚀
 
-## <b>Github Stats 📊</b>  <!--Pendiente-->
+| Project | What it does | Stack |
+| :--- | :--- | :--- |
+| **Driver Fatigue Detection System** (2025) | iOS app that detects driver fatigue with computer vision, real-time video analysis and deep learning. | SwiftUI · Python · TensorFlow · OpenCV · MobileNetV2 |
+| **TrustyWeb** (2024) | AI-powered Chromium extension that analyzes and verifies online information. | React · TypeScript · Node.js · OpenAI API |
+
 <br>
 
+## Skills 💪
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-054020?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**AI & Agentic Systems**
+
+![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-01A88D?style=for-the-badge)
+![AgentCore](https://img.shields.io/badge/AgentCore-232F3E?style=for-the-badge)
+![Strands Agents](https://img.shields.io/badge/Strands%20Agents-5400F7?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4B0082?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge)
+![LLM Evaluation](https://img.shields.io/badge/LLM%20Evaluation-7A5CFF?style=for-the-badge)
+
+**Cloud & DevOps**
+
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge)
+![S3 & S3 Vectors](https://img.shields.io/badge/S3%20%26%20S3%20Vectors-569A31?style=for-the-badge)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge)
+![API Gateway](https://img.shields.io/badge/API%20Gateway-A166FF?style=for-the-badge)
+![AWS CDK](https://img.shields.io/badge/AWS%20CDK-232F3E?style=for-the-badge)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-E7157B?style=for-the-badge)
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-E7157B?style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+
+**Frameworks & Tools**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
+
+**Certifications**
+
+![AWS Solutions Architect (in progress)](https://img.shields.io/badge/AWS%20Solutions%20Architect-In%20progress-FF9900?style=for-the-badge)
+![Google Cloud Computing Foundations](https://img.shields.io/badge/Google%20Cloud%20Computing%20Foundations-2025-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+<br>
+
+## GitHub Stats 📊
+
+<!-- Estas tarjetas las genera .github/workflows/update-cards.yml y se guardan en /profile -->
 <div align="center">
-	
-<a href="https://github.com/RodEsB/">
-  <img src="https://github-readme-stats.vercel.app/api?username=RodEsB&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RodEsB&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="RodEsB"/>
-
-</a>
+  <a href="https://github.com/RodEsB/">
+    <img src="./profile/stats.svg" height="170" alt="Rodrigo's GitHub stats" />
+    <img src="./profile/top-langs.svg" height="170" alt="Rodrigo's most used languages" />
+  </a>
 </div>
 
 <br>
-<br>
-<br>
 
------
-
-<br>
-<br>
-
-## <b>Let's Connect! 🌟</b> <!--Pendiente-->
-<br>
-<div align='left'>
-<ul>
-<li>
-<a href="https://www.linkedin.com/in/rodrigo-espíritu-berra" target="_blank"> 
-<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/></a>
-</li>
-		
-<br>
-
-<li>
-<a href="https://twitter.com/Rod_Es_B" target="_blank">
-<img src="https://img.shields.io/badge/x-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<br>
-
-<li>
-<a href="mailto:rodrigo.espirituberra@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-	
-</ul>
-</div>
-
-<div align='center'>
 ---
 
-**👋 Thank you for exploring my profile! Feel free to check out my repositories to see what I've been working on. Contributions and feedback are always welcome! Happy coding! 🚀**
+<div align="center">
+
+**👋 Thanks for stopping by! Feel free to explore my repositories or reach out. Happy coding! 🚀**
 
 </div>
-<br>
